@@ -1,2 +1,2 @@
-# shopMart
+# ShopMart
 An Online shopping website
