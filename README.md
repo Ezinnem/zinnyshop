@@ -1,2 +1,2 @@
 # ShopMart
-An Online shopping website
+An Online shopping website built using React.js and Firebase
