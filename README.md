@@ -1,5 +1,5 @@
 # ShopMart
-An Online shopping website built using React.js and Firebase.
+An Online shopping website built using React.js and commerceJS.
 
 # Feature
 1. Admin can post products for sale.
