@@ -1,2 +1,2 @@
 # ShopMart
-An Online shopping website
+An Online shopping website developed using ReactJs.
