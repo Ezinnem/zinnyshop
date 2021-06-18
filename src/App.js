@@ -60,7 +60,7 @@ const App = () => {
 
       refreshCart();
     } catch (error) {
-      setErrorMessage(error.data.error.message);
+      setErrorMessage('This is a demo e-commerce site and payments cannot be made yet.' + error.data.error.message);
     }
   };
 
@@ -84,7 +84,7 @@ const App = () => {
             <Cart cart={cart} onUpdateCartQty={handleUpdateCartQty} onRemoveFromCart={handleRemoveFromCart} onEmptyCart={handleEmptyCart} />
           </Route>
           <Route path="/checkout" exact>
-            <Checkout cart={cart} order={order} onCaptureCheckout={handleCaptureCheckout} error={errorMessage} />
+            <Checkout cart={cart} order={order} onCaptureCheckout={handleCaptureCheckout} error={errorMessage}/>
           </Route>
         </Switch>
       </div>
