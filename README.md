@@ -1,7 +1,9 @@
 # zinnyShop
 
 An Online shopping platform developed using React.js
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+![shop-cart-demo](https://user-images.githubusercontent.com/54344301/188275359-7e5f0272-b6dc-4ff8-bda8-8b6e3facb5fc.gif)
 
 ## Available Scripts
 
